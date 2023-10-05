@@ -1,4 +1,4 @@
-# Intorduction-to-Computer-Science
+# Group project 
 ## Group members:
 Stanislau Patapau, Micheal Shadamola, Raman Moktan, Abdulbaki Salaudeen.
 ### Description of a group member
